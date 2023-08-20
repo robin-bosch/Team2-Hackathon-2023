@@ -8,6 +8,8 @@ import displayUi from './ui/ui';
 import gameover from './scene/gameover';
 
 
+
+
 scene('game', () => {
 	setGravity(640 * SCALE);
 
