@@ -9,7 +9,7 @@ function mainScene() {
 	loadSprite("nearBuildings", "/assets/background/near-buildings-bg.png")
 	loadSprite("skyline", "/assets/background/skyline-a.png")
 
-	loadFont("Unscii", "/assets/fonts/unscii-16.ttf")
+	loadFont("Unscii", "https://robin-bosch.github.io/Team2-Hackathon-2023/assets/fonts/unscii-16.ttf")
 
 	const backgroundLayerBottom = add([]);
 	const backgroundLayerMiddle = add([]);

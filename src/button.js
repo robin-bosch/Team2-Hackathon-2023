@@ -6,7 +6,7 @@
  * @returns 
  */
 function addButton(textContent, position, clickFunction) {
-    loadFont("Unscii", "/assets/fonts/unscii-16.ttf")
+    loadFont("Unscii", "https://robin-bosch.github.io/Team2-Hackathon-2023/assets/fonts/unscii-16.ttf")
 
     // Button object
     const btn = add([
